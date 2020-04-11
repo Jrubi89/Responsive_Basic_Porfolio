@@ -230,11 +230,11 @@
 
 
   @media screen and (max-width:980px){
-    #portfolio-box {
-      width: 100%;
+  #portfolio-box {
+    width: 100%;
   }
   #portfolio {
-      width: 75%;
+    width: 75%;
   }
   #contact-box,
   #contact,
@@ -245,6 +245,24 @@
   input,
   textarea,
   #submit {
-      width: 70%;
+    width: 70%;
+   }
+  }
 
+  @media screen and (max-width:768px) {
+  .main-container1 {
+    display: grid;
+}
+  #navbar {
+    float: none;
+    margin-left: 50%;
+    }
+  #bio-box {
+    width: 70%;
+    height: 100%;
+}
+    #aboutme {
+        width: 80%;
+  }
+}
 
