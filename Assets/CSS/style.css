@@ -266,3 +266,12 @@
   }
 }
 
+
+.main-container2 {
+  display: grid;
+}
+  #navbar {
+    margin: auto;
+    float: none;
+    margin-left: 50%;
+}
