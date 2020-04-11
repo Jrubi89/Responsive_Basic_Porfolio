@@ -236,6 +236,15 @@
   #portfolio {
       width: 75%;
   }
-
+  #contact-box,
+  #contact,
+  #contact-form,
+  label,
+  #email-label,
+  #message-label,
+  input,
+  textarea,
+  #submit {
+      width: 70%;
 
 
