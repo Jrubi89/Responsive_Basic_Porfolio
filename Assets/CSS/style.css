@@ -89,20 +89,6 @@
   
   }
   
-  #connect1 {
-    color: #4baaa5;
-    font-weight: bold;
-    font-size: 20px;
-    font-family: "Georgia", Times, "Times New Roman", serif;
-    border-bottom: 3px solid #cccccc;
-    text-align: center;
-    padding: 10px; 
-  }
-  
-  #connect-links1 {
-    margin: 10px 60px;
-  }
-  
   li {
     display: inline;
     
@@ -120,10 +106,7 @@
     margin-top: 22px;
     text-align: center;
   }
-  
-  /*Contact Page*/
-  
-  
+ 
   .main-container2 {
     display: flex;
     margin: 35px 70px;
@@ -195,18 +178,6 @@
     border: none;
   }
   
-  
-  
-  #connect2 {
-    color: #4baaa5;
-    font-weight: bold;
-    font-size: 20px;
-    font-family: "Georgia", Times, "Times New Roman", serif;
-    border-bottom: 3px solid #f0f0f0;
-    text-align: center;
-    padding: 10px; 
-  }
-  
   #main-container3 {
     display: flex;
     margin: 35px 70px;
@@ -251,16 +222,7 @@
     bottom: 60px;
     padding: 10px;
   }
-  
-  #connect3 {
-    color: #4baaa5;
-    font-weight: bold;
-    font-size: 20px;
-    font-family: "Georgia", Times, "Times New Roman", serif;
-    border-bottom: 3px solid #f0f0f0;
-    text-align: center;
-    padding: 10px; 
-  }
+
   
   a {
     text-decoration: none;
