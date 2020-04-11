@@ -250,6 +250,7 @@
   }
 
   @media screen and (max-width:768px) {
+  
   .main-container1 {
     display: grid;
 }
@@ -264,14 +265,31 @@
     #aboutme {
         width: 80%;
   }
-}
-
-
-.main-container2 {
-  display: grid;
+   
+  .main-container2 {
+    display: grid;
 }
   #navbar {
     margin: auto;
     float: none;
     margin-left: 50%;
 }
+
+.main-container3 {
+  display: grid;
+}
+
+#portfolio-box {
+  height: 150%;
+}
+#navbar {
+  float: none;
+  margin-left: 50%;
+  }
+}
+@media screen and (max-width:640px) {
+  #navbar {
+      float: none;
+      margin: auto;
+  }
+ }
